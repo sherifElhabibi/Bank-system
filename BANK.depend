@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1664567459 source:e:\c++ course (basics)\projects\bank\bank\main.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+

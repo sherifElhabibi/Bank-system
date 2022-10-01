@@ -1,0 +1,4 @@
+Client's Name: SHERF
+Client's ID: 23
+Client's Password: 111
+Client's Balance: 5000
